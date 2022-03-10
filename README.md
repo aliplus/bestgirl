@@ -1,6 +1,6 @@
 # bestgirl
 Typecho Themes,bestgirl主题
-![bestgirl 图标](https://must.best/usr/themes/must/screenshot.png "bestgirl")
+![bestgirl 图标](https://cdn.jsdelivr.net/gh/aliplus/bestgirl/bestgirl/screenshot.png "bestgirl")
 
 ### 主题简介 ###
 bestgirl主题是一款简约风格的响应式轻主题，基于[鹅厂熊大](https://xio.ng)的[出租本人](https://chuzubenren.com)创意域名展示页。
