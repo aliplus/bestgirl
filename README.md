@@ -1,0 +1,2 @@
+# bestgril
+Typecho Themes,bestgril
