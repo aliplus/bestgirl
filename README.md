@@ -1,9 +1,9 @@
 # bestgirl
 Typecho Themes,bestgirl主题
-![bestgirl 图标](https://github.com/aliplus/bestgirl/bestgirl/screenshot.png "bestgirl")
+![bestgirl 图标](https://must.best/usr/themes/must/screenshot.png "bestgirl")
 
 ### 主题简介 ###
-bestgirl主题是一款简约风格的响应式轻主题，基于[鹅厂熊大](https://xio.ng) [出租本人](https://chuzubenren.com)的创意域名展示页。
+bestgirl主题是一款简约风格的响应式轻主题，基于[鹅厂熊大](https://xio.ng)的[出租本人](https://chuzubenren.com)创意域名展示页。
 此主题适合日志、轻言、诗词、语录、格言、名句、条目、菜谱、记事本、大事记、回忆录等各种轻简短文字类网站。
 
 ### 主题预览 ###
